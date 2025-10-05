@@ -9,5 +9,6 @@ n = int(input("Entrer le n-eme terme : "))
 print(F7(n))
 
 # Nom Complet : WAEL BOUHAYA
-# Filiere : IAGI-1 
+# Filière : IAGI-1 
+
 
